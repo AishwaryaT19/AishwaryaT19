@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AishwaryaT19)](https://git.io/streak-stats)
 <!--
 **AishwaryaT19/AishwaryaT19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
